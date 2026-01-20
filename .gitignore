@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+/build/
+
+# Gradle wrapper
+/gradle/wrapper/gradle-wrapper.jar
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+/out/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# OS generated
+Thumbs.db
+
+# Environment
+*.env
+
+# Temporary files
+tmp/
+
+# Ignore build outputs and generated files
+build/
+
