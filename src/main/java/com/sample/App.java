@@ -1,21 +1,4 @@
-package com.sample;
+// This file was moved to org.bztest.sample.App
+// Retained as a backup; the application now lives under
+// `src/main/java/org/bztest/sample/App.java`.
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-@SpringBootApplication
-public class App {
-
-	@RequestMapping("/")
-	String home() {
-		return "Hello World!";
-	}
-
-	public static void main(String[] args) {
-		SpringApplication.run(App.class, args);
-	}
-
-}    
