@@ -3,7 +3,7 @@
 /build/
 
 # Gradle wrapper
-/gradle/wrapper/gradle-wrapper.jar
+# /gradle/wrapper/gradle-wrapper.jar
 
 # Java
 *.class
