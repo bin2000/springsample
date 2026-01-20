@@ -2,9 +2,6 @@
 .gradle/
 /build/
 
-# Gradle wrapper
-# /gradle/wrapper/gradle-wrapper.jar
-
 # Java
 *.class
 *.jar
