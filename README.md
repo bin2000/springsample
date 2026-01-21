@@ -1,6 +1,6 @@
 # springsample
 
-A Spring Boot sample app to test things.
+A Spring Boot sample app to show github actions workflows.
 
 Run locally with Gradle wrapper (Windows):
 
